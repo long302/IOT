@@ -1,0 +1,7 @@
+node_modules/
+client/dist/
+server/.env
+server/data/
+server/telemetry-history.json
+npm-debug.log*
+.DS_Store
